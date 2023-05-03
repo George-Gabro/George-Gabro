@@ -1,6 +1,6 @@
 <h1 align="center">
 
---- 🔗 https://github.com/George-Gabro 🔗 ---
+--- $ echo "👋 Hey"_ ---
 
 </h1>
 
