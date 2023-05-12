@@ -1,9 +1,3 @@
-<h1 align="center">
-
---- $ echo "👋 Hey"_ ---
-
-</h1>
-
 <img src="terminal.svg" alt="Typing SVG" /></a>
 
 ---
