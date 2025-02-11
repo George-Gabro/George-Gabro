@@ -11,9 +11,7 @@
 
 ---
 
-<p align="center">
-  <h2>🖥️ Browsers I Use</h2>
-</p>
+<h2 align="center">🖥️ Browsers I Use</h2>
 <p>I primarily use the following browsers for development and browsing:</p>
 <ul>
   <li>waterfox (main browser for privacy)</li>
