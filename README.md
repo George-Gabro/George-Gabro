@@ -51,7 +51,7 @@ I'm a software engineer recently graduated from [Saxion University of Applied Sc
         <tr>
           <td>Main browser for privacy</td>
           <td>Waterfox</td>
-          <td><img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/Waterfox_logo_2019.svg" alt="Waterfox Logo" width="50"></td>
+          <td><img src="https://www.waterfox.net/_astro/waterfox.aA4DFn78.svg" alt="Waterfox Logo" width="50"></td>
         </tr>
         <tr>
           <td>For development</td>
