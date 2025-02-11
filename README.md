@@ -42,10 +42,27 @@ I'm a software engineer recently graduated from [Saxion University of Applied Sc
         Web browsers
     </summary>
     <br>
-    <p>I primarily use the following browsers for development and browsing:</p>
-    <ul>
-    <li>Waterfox (Main browser for privacy)</li>
-    <li>Google Chrome (For development)</li>
-    <li>Mozilla Firefox (For frontend development)</li>
-    </ul>
+    <table border="1">
+        <tr>
+          <th>Purpose</th>
+          <th>Browser</th>
+          <th>Logo</th>
+        </tr>
+        <tr>
+          <td>Main browser for privacy</td>
+          <td>Waterfox</td>
+          <td><img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/Waterfox_logo_2019.svg" alt="Waterfox Logo" width="50"></td>
+        </tr>
+        <tr>
+          <td>For development</td>
+          <td>Google Chrome</td>
+          <td><img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Google_Chrome_icon_%282013-2019%29.png" alt="Google Chrome Logo" width="50"></td>
+        </tr>
+        <tr>
+          <td>For frontend development</td>
+          <td>Mozilla Firefox</td>
+          <td><img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Firefox_logo_2019.svg" alt="Mozilla Firefox Logo" width="50"></td>
+        </tr>
+      </table>
+      
 </details>
