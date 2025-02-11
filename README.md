@@ -56,7 +56,7 @@ I'm a software engineer recently graduated from [Saxion University of Applied Sc
         <tr>
           <td>For development</td>
           <td>Google Chrome</td>
-          <td><img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Google_Chrome_icon_%282013-2019%29.png" alt="Google Chrome Logo" width="50"></td>
+          <td><img src="https://www.google.com/chrome/static/images/chrome-logo-m100.svg" alt="Google Chrome Logo" width="50"></td>
         </tr>
         <tr>
           <td>For frontend development</td>
