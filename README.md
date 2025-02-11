@@ -61,7 +61,7 @@ I'm a software engineer recently graduated from [Saxion University of Applied Sc
         <tr>
           <td>For frontend development</td>
           <td>Mozilla Firefox</td>
-          <td><img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Firefox_logo_2019.svg" alt="Mozilla Firefox Logo" width="50"></td>
+          <td><img src="https://www.mozilla.org/media/protocol/img/logos/firefox/browser/logo-word-hor.7ff44b5b4194.svg" alt="Mozilla Firefox Logo" width="50"></td>
         </tr>
       </table>
       
