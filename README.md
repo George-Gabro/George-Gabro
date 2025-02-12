@@ -164,3 +164,155 @@ I'm a software engineer recently graduated from [Saxion University of Applied Sc
     <br>
     <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=George-Gabro&show_icons=true&line_height=27&include_all_commits=true&theme=radical" alt="My github stats" />
 </details>
+<details>
+    <summary>
+        Subjects I learned in Uni
+    </summary>
+    <table border="1">
+        <thead>
+            <tr>
+                <th>Code</th>
+                <th>Subject</th>
+                <th>Description</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>T.51510</td>
+                <td>2.1: Concurrency</td>
+                <td>Focuses on the principles and techniques of concurrent programming, enhancing application performance.</td>
+            </tr>
+            <tr>
+                <td>T.51509</td>
+                <td>2.1: Project Persistent</td>
+                <td>A project-based course focusing on designing and implementing persistent data storage systems.</td>
+            </tr>
+            <tr>
+                <td>T.47120</td>
+                <td>2.1: Web Technology</td>
+                <td>Introduces core web development technologies like HTML, CSS, JavaScript, and server-side integration.</td>
+            </tr>
+            <tr>
+                <td>T.47139</td>
+                <td>2.2: C++</td>
+                <td>Teaches C++ programming, focusing on object-oriented programming, memory management, and optimization.</td>
+            </tr>
+            <tr>
+                <td>T.47137</td>
+                <td>2.2: Complexity & Algorithms</td>
+                <td>Focuses on algorithm design and analysis, including time and space complexity, and data structures.</td>
+            </tr>
+            <tr>
+                <td>DT.44691</td>
+                <td>Complexiteit & Algoritmiek - Theory</td>
+                <td>Theoretical aspects of complexity theory, covering models of computation and algorithm analysis.</td>
+            </tr>
+            <tr>
+                <td>DT.44692</td>
+                <td>Complexity & Algorithms - Practice</td>
+                <td>Practical implementation of algorithms and data structures to reinforce theoretical knowledge.</td>
+            </tr>
+            <tr>
+                <td>T.53718</td>
+                <td>2.2: Internet Technology</td>
+                <td>Explores internet protocols like TCP/IP, DNS, HTTP, and related security issues.</td>
+            </tr>
+            <tr>
+                <td>T.54532</td>
+                <td>2.2: Project Client on board</td>
+                <td>A project-based course to create client-oriented software solutions, applying various technical skills.</td>
+            </tr>
+            <tr>
+                <td>T.48554</td>
+                <td>2.34: IT & Law</td>
+                <td>Explores legal aspects of IT, including data privacy, intellectual property, and legal frameworks.</td>
+            </tr>
+            <tr>
+                <td>T.47140</td>
+                <td>2.3: Compilers & Operating Systems</td>
+                <td>Introduces the design and implementation of compilers, and explores operating system concepts.</td>
+            </tr>
+            <tr>
+                <td>T.47141</td>
+                <td>2.3: Development Tools</td>
+                <td>Covers tools and technologies aiding in software development, including IDEs and version control systems.</td>
+            </tr>
+            <tr>
+                <td>T.47144</td>
+                <td>2.3: Project Networking</td>
+                <td>Focuses on designing and implementing networked systems, applying networking protocols.</td>
+            </tr>
+            <tr>
+                <td>T.47146</td>
+                <td>2.4: International Work</td>
+                <td>An international collaboration course, where students work on real-world projects in multicultural teams.</td>
+            </tr>
+            <tr>
+                <td>T.48666</td>
+                <td>2.4: Project HBO-IT Corp.</td>
+                <td>A large-scale project working with a company on an IT problem, applying all learned concepts.</td>
+            </tr>
+            <tr>
+                <td>T.48609</td>
+                <td>3.12: Internship HBO-IT</td>
+                <td>An internship providing real-world experience in IT development, applying classroom knowledge.</td>
+            </tr>
+            <tr>
+                <td>T.50486</td>
+                <td>4.34: Graduation HBO-IT</td>
+                <td>The capstone project where students demonstrate their mastery through a final IT solution.</td>
+            </tr>
+            <tr>
+                <td>T.51542</td>
+                <td>4.AAD: Backend Development</td>
+                <td>Focuses on backend technologies like server-side programming, databases, and API design.</td>
+            </tr>
+            <tr>
+                <td>T.54931</td>
+                <td>4.AAD: Design Essentials</td>
+                <td>Covers UX design, interface design, and best practices for creating functional software.</td>
+            </tr>
+            <tr>
+                <td>T.55520</td>
+                <td>4.AAD: Hybrid Development</td>
+                <td>Teaches development for multiple platforms (web and mobile) using hybrid technologies like React Native.</td>
+            </tr>
+            <tr>
+                <td>T.51540</td>
+                <td>4.AAD: Project Advanced App Development</td>
+                <td>A project-oriented course focusing on advanced techniques in mobile and web app development.</td>
+            </tr>
+            <tr>
+                <td>T.53743</td>
+                <td>Access Control and Detection Measures</td>
+                <td>Focuses on security concepts like authentication, authorization, and intrusion detection systems.</td>
+            </tr>
+            <tr>
+                <td>T.53741</td>
+                <td>Computer Forensics</td>
+                <td>Teaches techniques for investigating cybercrimes, including data recovery and evidence preservation.</td>
+            </tr>
+            <tr>
+                <td>T.53744</td>
+                <td>Cyber security consulting: giving strategic advice</td>
+                <td>Focuses on advising businesses on cybersecurity, assessing risks, and creating defense strategies.</td>
+            </tr>
+            <tr>
+                <td>T.52479</td>
+                <td>Introduction to Cryptography</td>
+                <td>Introduces the fundamentals of cryptography, including encryption algorithms and security protocols.</td>
+            </tr>
+            <tr>
+                <td>T.53742</td>
+                <td>Project: Risk Analysis</td>
+                <td>A project focusing on analyzing IT system risks and creating mitigation strategies.</td>
+            </tr>
+            <tr>
+                <td>T.53740</td>
+                <td>Trends in Cyber Threats and Cyber Defenses</td>
+                <td>Examines current trends in cybersecurity threats and defenses, including APTs and defensive measures.</td>
+            </tr>
+        </tbody>
+    </table>
+    
+</details>
