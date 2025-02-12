@@ -168,6 +168,7 @@ I'm a software engineer recently graduated from [Saxion University of Applied Sc
     <summary>
         Subjects I learned in Uni
     </summary>
+    <br>
     <table border="1">
         <thead>
             <tr>
