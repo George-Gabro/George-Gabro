@@ -115,8 +115,8 @@ I'm a software engineer recently graduated from [Saxion University of Applied Sc
             <td>A guide to building dynamic web applications using PHP 5 and MySQL databases, covering key concepts and practical examples.</td>
           </tr>
           <tr>
-            <td>Handcrafted CDD</td>
-            <td>Explores Custom Domain Driven Design (CDD), with a focus on creating tailored, maintainable systems based on business requirements.</td>
+            <td>Handcrafted CSS</td>
+            <td>A book focused on writing custom, maintainable CSS. It emphasizes practical approaches for building a CSS structure that is easy to maintain, scalable, and tailored to specific project needs.</td>
           </tr>
           <tr>
             <td>Javascript & Jquery</td>
