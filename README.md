@@ -64,7 +64,22 @@ I'm a software engineer recently graduated from [Saxion University of Applied Sc
           <td><img src="https://www.mozilla.org/media/protocol/img/logos/firefox/browser/logo.eb1324e44442.svg" alt="Mozilla Firefox Logo" width="50"></td>
         </tr>
       </table>
-      
+</details>
+<details>
+    <summary>
+        Search Engines that I use
+    </summary>
+    <br>
+    <table border="1">
+        <tr>
+            <th>Search Engine</th>
+            <Purpose></Purpose>
+        </tr>
+        <tr>
+            <td>Startpage <img src="https://www.startpage.com/sp/cdn/images/startpage-logo-gradient-dark.svg"></td>
+            <td>Trusted search engine</td>
+        </tr>
+    </table>
 </details>
 <details>
     <summary>
