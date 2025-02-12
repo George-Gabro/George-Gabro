@@ -66,3 +66,95 @@ I'm a software engineer recently graduated from [Saxion University of Applied Sc
       </table>
       
 </details>
+<details>
+    <summary>
+        Books that I have read
+    </summary>
+    <table border="1">
+        <thead>
+          <tr>
+            <th>Book Title</th>
+            <th>About</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>Developer Testing</td>
+            <td>Focuses on methods and tools for testing software during development to ensure high-quality output.</td>
+          </tr>
+          <tr>
+            <td>App Inventor</td>
+            <td>A beginner-friendly guide to building mobile applications without writing complex code, using the App Inventor platform.</td>
+          </tr>
+          <tr>
+            <td>Practical Software Measurement</td>
+            <td>Provides insights into measuring and managing software projects, focusing on quantitative methods to track progress and quality.</td>
+          </tr>
+          <tr>
+            <td>Big Java Late Objects</td>
+            <td>A textbook for learning Java programming, covering advanced topics with a focus on objects and classes in Java.</td>
+          </tr>
+          <tr>
+            <td>C++</td>
+            <td>Covers the fundamentals and advanced features of C++, a powerful programming language used in system and application development.</td>
+          </tr>
+          <tr>
+            <td>Comptia A+</td>
+            <td>A comprehensive guide for the CompTIA A+ certification, covering hardware, software, networking, and troubleshooting.</td>
+          </tr>
+          <tr>
+            <td>Comptia Network+</td>
+            <td>Teaches networking fundamentals in preparation for the CompTIA Network+ certification exam, including network configurations and troubleshooting.</td>
+          </tr>
+          <tr>
+            <td>Webdesign and HTML in de praktijk</td>
+            <td>A practical guide to web design and HTML, focusing on real-world applications and industry standards.</td>
+          </tr>
+          <tr>
+            <td>PHP 5 en MySQL</td>
+            <td>A guide to building dynamic web applications using PHP 5 and MySQL databases, covering key concepts and practical examples.</td>
+          </tr>
+          <tr>
+            <td>Handcrafted CDD</td>
+            <td>Explores Custom Domain Driven Design (CDD), with a focus on creating tailored, maintainable systems based on business requirements.</td>
+          </tr>
+          <tr>
+            <td>Javascript & Jquery</td>
+            <td>A practical guide for mastering JavaScript and jQuery, essential for creating dynamic and interactive web pages.</td>
+          </tr>
+          <tr>
+            <td>HTML & CSS</td>
+            <td>Introduces the basics of HTML and CSS for building structured and styled websites, including layout and design principles.</td>
+          </tr>
+          <tr>
+            <td>More Eric Meyer on CSS</td>
+            <td>Focuses on advanced CSS techniques, offering valuable tips and strategies for designing and styling websites effectively.</td>
+          </tr>
+          <tr>
+            <td>Strategies for Creative Problem Solving</td>
+            <td>Offers methods for approaching and solving complex problems creatively, with real-world examples and techniques.</td>
+          </tr>
+          <tr>
+            <td>Apps Maken met Android Studio</td>
+            <td>A practical guide to building Android apps using Android Studio, from basic concepts to advanced features and tools.</td>
+          </tr>
+          <tr>
+            <td>The Definitive ANTLR 4 Reference</td>
+            <td>A comprehensive reference for ANTLR 4, a tool for building language parsers and compilers, covering its syntax and capabilities.</td>
+          </tr>
+          <tr>
+            <td>Grip op AVG</td>
+            <td>A guide to understanding and complying with the General Data Protection Regulation (GDPR), focusing on practical implementation.</td>
+          </tr>
+          <tr>
+            <td>Official ISC Guide to the CISSP CBK</td>
+            <td>Offers a comprehensive overview of the Common Body of Knowledge (CBK) required for the CISSP certification in cybersecurity.</td>
+          </tr>
+          <tr>
+            <td>Praktisch Informaticarecht</td>
+            <td>Explores the intersection of law and information technology, focusing on the legal aspects of software, data, and digital systems.</td>
+          </tr>
+        </tbody>
+      </table>
+      
+</details>
