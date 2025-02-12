@@ -159,3 +159,8 @@ I'm a software engineer recently graduated from [Saxion University of Applied Sc
       </table>
       
 </details>
+<details>
+    <summary>Github stats</summary>
+    <br>
+    <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=George-Gabro&show_icons=true&line_height=27&include_all_commits=true&theme=radical" alt="My github stats" />
+</details>
